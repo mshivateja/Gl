@@ -12,3 +12,4 @@ C:\Users\Shivateja\source\repos\Day3\Day3\obj\Debug\net8.0\refint\Day3.dll
 C:\Users\Shivateja\source\repos\Day3\Day3\obj\Debug\net8.0\Day3.pdb
 C:\Users\Shivateja\source\repos\Day3\Day3\obj\Debug\net8.0\Day3.genruntimeconfig.cache
 C:\Users\Shivateja\source\repos\Day3\Day3\obj\Debug\net8.0\ref\Day3.dll
+C:\Users\Shivateja\source\repos\Day3\Day3\obj\Debug\net8.0\Day3.sourcelink.json

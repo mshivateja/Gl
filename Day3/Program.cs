@@ -4,9 +4,21 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        int A = 10; int B = 20;
-        Cust c = new Cust(A, B);
+        Console.WriteLine("Enter the ProductId");
+        int id = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter the ProductName");
+        string nm = Console.ReadLine();
 
-        c.CValue();
+        Product product = new Product(id, nm); 
+        product.PublicMthd();
+
+
+        Customer cust = new Customer();
+        Console.WriteLine("Enter the CustomerId");
+        cust.custId = Convert.ToInt32(Console.ReadLine()); 
+        Console.WriteLine("Enter the CustomerName");
+        cust.custName = Console.ReadLine();
+
+        cust.Display();
     }
 }
